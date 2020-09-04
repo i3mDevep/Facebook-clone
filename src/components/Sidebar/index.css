@@ -1,0 +1,8 @@
+.sidebar {
+    padding: 10px;
+}
+.sidebar > div {
+    position: sticky;
+    top: 90px;
+    width: 100%;
+}
